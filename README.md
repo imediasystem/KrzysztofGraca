@@ -1,4 +1,5 @@
-[<img width="1892" height="919" alt="Zrzut ekranu 2025-11-11 073438" src="https://github.com/user-attachments/assets/02af8a1c-f33f-4d64-bcac-073f5dd9de08" />](https://krzysztofgraca.pl/)
+[<img width="1894" height="913" alt="Zrzut ekranu 2026-03-17 153408" src="https://github.com/user-attachments/assets/d85e8c7e-a075-4483-86fd-b21531fe783b" />](https://krzysztofgraca.pl/)
+
 
 ## 🔥 Project Name - KRZYSZTOF GRACA
 See the live version of [KRZYSZTOF GRACA](https://krzysztofgraca.pl/) ↗️
