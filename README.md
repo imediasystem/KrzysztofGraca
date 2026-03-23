@@ -5,7 +5,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krzysztofgraca.pl/)
 
-A portfolio website design for a freelance web designer. The site showcases their offerings and programming skills. It also includes links to completed projects. HTML5, CSS3, JavaScript And Bootstrap were used.
+A portfolio website design for a freelance web designer. The site showcases their offerings and programming skills. It also includes links to completed projects. HTML5, CSS3, JavaScript and Bootstrap were used.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
